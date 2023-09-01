@@ -21,6 +21,10 @@ We implemented models to predict two metrics RUL and SOH.
 
 The concept of Remaining Useful Life (RUL) is utilised to predict life-span of components (of a service system) with the purpose of minimising catastrophic failure events in both manufacturing and service sectors.
 
+#### Batery Discharge Prediction
+
+![image](https://github.com/kevinknights29/Regression--Battery-Life-Prediction/assets/74464814/0155753e-ef27-4228-8214-17229d0f520b)
+
 #### RUL Deep Learning Model Performance
 
 ![image](https://github.com/kevinknights29/Regression--Battery-Life-Prediction/assets/74464814/f02ca10c-2518-4c0c-8bb8-cb79237f675b)
